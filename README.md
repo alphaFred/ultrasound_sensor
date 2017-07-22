@@ -1,3 +1,2 @@
-# Distance measureing library for Ultrasound Sensors on Atmega8
-
+# Distance measuring library for Ultrasound Sensors on Atmega8
 
